@@ -1,5 +1,5 @@
 # Operation-Dead-Deploy-Project
-# <h1><h1>Investigating a junior intern with contributor access and no governance standards knowledge.
+Investigating a junior intern with contributor access and no governance standards knowledge.
 
 ## <h1><h1>Scenario
 Junior intern was given temporary contributor access to start up a test environment to experiment in. The intern does not have knowledge in the company's governance standards who took shortcuts deploying and left the environment for the weekend. 
